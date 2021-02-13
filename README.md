@@ -3,7 +3,7 @@
 I'm a Computing Engineering student at FEUP, Porto, Portugal 
 
 - 🔭 I’m currently working on a Discord spam bot and a Java "framework" for building simple 2D games.
-- 🌱 ~~I’m currently learning Python, not as a choice but because college :'( 
+- 🌱 ~~I’m currently learning Python, not as a choice but because college :'(~~
 - 📫 How to reach me: <ul><li>Instagram: https://www.instagram.com/el_peras25/</li> <li>GitHub: https://github.com/Naapperas</li></ul>
 
 ### :wrench: Languages and tools 

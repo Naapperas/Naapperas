@@ -45,5 +45,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naapperas&theme=dark&show_icons=true&layout=compact&hide_border=true&exclude_repo=github-readme-stats,anuraghazra.github.io,feup-csr" />
 </div>
 
-PS: I totally did not steal this README from [@gui1612](https://github.com/gui1612)
+PS: I totally did not steal this README from [@gui1612](https://github.com/gui1612)</br>
 PSS: I don't really do HTML, this is all documentation
